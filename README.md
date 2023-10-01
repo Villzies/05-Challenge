@@ -34,7 +34,7 @@ Default Screen ![image](https://github.com/Villzies/Work-Day-Calendar/assets/135
 
 ##Deployed Webpage
 
-https://villzies.github.io/Random-Password-Generator/
+https://villzies.github.io/Work-Day-Calendar/
 
 ##Repository
 
